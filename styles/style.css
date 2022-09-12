@@ -40,14 +40,14 @@ body{
     justify-content: center;
 }
 
-.experiencia span{
+.experiencia {
     margin: 5px;
     background-color: rgb(201, 199, 199);
     border-radius: 5px;
     padding: 10px;
 }
 
-.idiomas {
+.cursos {
     margin: auto;
     margin-top: 20px;
     display: flex;
